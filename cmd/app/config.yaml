@@ -1,0 +1,5 @@
+src_dir: /tmp
+dst_dir: /tmp/tmp_copy
+max_copy_threads: 4
+rescaninterval: 3600
+loglevel: INFO
