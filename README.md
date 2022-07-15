@@ -48,7 +48,7 @@ rescaninterval: 3600 #in seconds
 loglevel: INFO
 
 | Parameter               | required               | Comment                                     |
-|--------------------------------------------------|---------------------------------------------|
+|-------------------------|------------------------|---------------------------------------------|
 | src_dir                 | `+`                    | A source directory to be synced             |
 | dst_dir                 | `+`                    | A destination directory for syncing         |
 | max_copy_threads        | `+`                    | The more threads the faster will be syncing |
