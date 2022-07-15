@@ -40,7 +40,7 @@ tosser run
 /etc/tosser/logs
 ```
 
-## Parameters
+## Configuration
 src_dir: /tmp
 dst_dir: /tmp_test_tosser
 max_copy_threads: 4
